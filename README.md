@@ -18,6 +18,7 @@
 * [About the Project](#about-the-project)
 * [Technologies](#technologies)
 * [Features](#features)
+* [CI/CD](#cicd)
 * [Setup](#setup)
 * [Screenshots](#screenshots)
 
@@ -51,6 +52,11 @@ It is a web dating app. Main functionalities:
 - Profile management with photo uploads
 - Like & messaging system
 - Unit tests for backend
+
+
+## CI/CD
+This project includes a GitHub Actions workflow that automatically builds the project and runs tests on each push or pull request.
+
 
 <!-- Setup -->
 ## Setup
